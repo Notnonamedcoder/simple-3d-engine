@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    background-color: black;
+    font-family: "Bebas Neue", sans-serif;
+}
+button{
+    background-color: white;
+    border-radius: 30px;
+    border-color: white;
+    border-style: solid;
+}
+.bebas-neue-regular {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+h1{
+    font-family: "Bebas Neue", sans-serif;
+}
+p{
+    font-family: "Bebas Neue", sans-serif;
+}
